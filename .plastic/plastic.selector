@@ -1,0 +1,4 @@
+repository "CartoonFight/CartoonFight@10170795173578@cloud"
+  path "/"
+    br "/main"
+    co "/main"
